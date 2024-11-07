@@ -1,1 +1,10 @@
-The wheelchair control system combines the Arduino UNO R4 Minima, L298N Motor Driver, gear motors, and HC-05 Bluetooth module to provide smooth, precise navigation for users with mobility impairments. The Python-based software interface, built with Tkinter and OpenCV, supports both eye-tracking and a GUI, offering versatile control options. Twilio SMS integration further enhances user safety. This modular design is easily customizable to individual needs and future upgrades.
+# Wheelchair Controlled by Eye Movements
+
+## Overview
+The wheelchair control system combines the Arduino UNO R4 Minima, L298N Motor Driver, gear motors, and HC-05 Bluetooth module to provide smooth, precise navigation for users with mobility impairments.
+
+## Features
+- **Hardware**: Integrates Arduino UNO R4 Minima with key peripherals such as the L298N Motor Driver, gear motors, and HC-05 Bluetooth module.
+- **Control Interface**: Python-based software interface built with Tkinter and OpenCV, supporting both eye-tracking and a graphical user interface (GUI) for versatile control options.
+- **Safety**: Incorporates Twilio SMS for enhanced user safety.
+- **Modularity**: Designed for customization to meet individual needs and allow future upgrades.
